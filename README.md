@@ -1,23 +1,25 @@
-<h1 align="center">Hi 👋, I'm Yonathan Acevedo</h1>
+<h1 align="center">Hola 👋, soy Yonathan Acevedo</h1>
 <h3 align="center">Desarrollador Full Stack apasionado de Republica Dominicana Javascript | ReactJs | Redux | HTML | CSS | NodeJs | ExpressJs | Sequelize | Postgres</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonathanbaez25&label=Profile%20views&color=0e75b6&style=flat" alt="yonathanbaez25" /> </p>
 
-- 🔭 I’m currently working on **Prodelevate**
+- 🔭 Actualmente estoy trabajando en **Prodelevate**
 
-- 🌱 I’m currently learning **Redux Toolkit, React Native**
+- 🌱 Actualmente estoy aprendiendo **Redux Toolkit, React Native**
 
-- 💬 Ask me about **¡Saludos! Mi nombre es Yonathan Acevedo Báez, y mi experiencia de más de 15 años en el sector tecnológico me ha consolidado como un profesional altamente competente. Poseo certificaciones de renombre en empresas como Cisco, Microsoft e Infusionsoft, demostrando así mi profundo conocimiento y habilidades en áreas como redes, sistemas y marketing digital.
+- 💬 Sobre mi **
+  
+¡Saludos! Mi nombre es Yonathan Acevedo Báez, y mi experiencia de más de 15 años en el sector tecnológico me ha consolidado como un profesional altamente competente. Poseo certificaciones de renombre en empresas como Cisco, Microsoft e Infusionsoft, demostrando así mi profundo conocimiento y habilidades en áreas como redes, sistemas y marketing digital.
 
-- Como Desarrollador Full-Stack, me destaco por ser creativo, curioso y organizado, respaldado por una sólida iniciativa y una perspectiva colaborativa en el trabajo en equipo. Mi constante búsqueda de aprendizaje y enfoque eficiente para resolver problemas me mantienen actualizado con las mejores prácticas del sector, permitiéndome proporcionar soluciones superiores. Además, mi experiencia de una década como ingeniero de sistemas ha fortalecido mis habilidades de liderazgo y colaboración, lo que me permite dirigir equipos con éxito y alcanzar objetivos de manera efectiva.
+Como Desarrollador Full-Stack, me destaco por ser creativo, curioso y organizado, respaldado por una sólida iniciativa y una perspectiva colaborativa en el trabajo en equipo. Mi constante búsqueda de aprendizaje y enfoque eficiente para resolver problemas me mantienen actualizado con las mejores prácticas del sector, permitiéndome proporcionar soluciones superiores. Además, mi experiencia de una década como ingeniero de sistemas ha fortalecido mis habilidades de liderazgo y colaboración, lo que me permite dirigir equipos con éxito y alcanzar objetivos de manera efectiva.
 
-- A lo largo de mi trayectoria, he cubierto todas las fases del ciclo de desarrollo web, desde el diseño hasta la optimización. Mi experiencia abarca tecnologías clave como HTML, CSS, JavaScript, React.js y Node.js, junto con el uso experto de herramientas como Sequelize y Express para crear aplicaciones web de alta calidad.
+A lo largo de mi trayectoria, he cubierto todas las fases del ciclo de desarrollo web, desde el diseño hasta la optimización. Mi experiencia abarca tecnologías clave como HTML, CSS, JavaScript, React.js y Node.js, junto con el uso experto de herramientas como Sequelize y Express para crear aplicaciones web de alta calidad.
 
-- Estoy comprometido con el desarrollo continuo, lo que me motiva a buscar constantemente oportunidades para mejorar mis habilidades y conocimientos. Mi satisfacción proviene de trabajar en entornos colaborativos, donde puedo aportar mis habilidades técnicas y mi capacidad para comunicarme de manera efectiva con los miembros del equipo.
+Estoy comprometido con el desarrollo continuo, lo que me motiva a buscar constantemente oportunidades para mejorar mis habilidades y conocimientos. Mi satisfacción proviene de trabajar en entornos colaborativos, donde puedo aportar mis habilidades técnicas y mi capacidad para comunicarme de manera efectiva con los miembros del equipo.
 
-- Mi objetivo principal es crear aplicaciones web eficientes, atractivas y de alta calidad que ofrezcan experiencias excepcionales a los usuarios y generen un impacto positivo en el éxito empresarial. Estoy emocionado por contribuir al crecimiento de tu equipo y brindar soluciones innovadoras.
+Mi objetivo principal es crear aplicaciones web eficientes, atractivas y de alta calidad que ofrezcan experiencias excepcionales a los usuarios y generen un impacto positivo en el éxito empresarial. Estoy emocionado por contribuir al crecimiento de tu equipo y brindar soluciones innovadoras.
 
-- Si estás en búsqueda de un Desarrollador Full-Stack comprometido, apasionado y orientado a resultados, estaré encantado de conectarte. No dudes en contactarme para explorar posibles oportunidades de colaboración mutua. Mi sólida formación respaldada por Cisco, Microsoft e Infusionsoft en marketing digital y tecnología refleja mi compromiso con la excelencia en cada proyecto que emprendo.**
+Si estás en búsqueda de un Desarrollador Full-Stack comprometido, apasionado y orientado a resultados, estaré encantado de conectarte. No dudes en contactarme para explorar posibles oportunidades de colaboración mutua. Mi sólida formación respaldada por Cisco, Microsoft e Infusionsoft en marketing digital y tecnología refleja mi compromiso con la excelencia en cada proyecto que emprendo.**
 
 - 📫 How to reach me **yacevedo170@gmail.com**
 

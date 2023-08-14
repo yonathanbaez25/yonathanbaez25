@@ -21,7 +21,7 @@ Mi objetivo principal es crear aplicaciones web eficientes, atractivas y de alta
 
 Si estás en búsqueda de un Desarrollador Full-Stack comprometido, apasionado y orientado a resultados, estaré encantado de conectarte. No dudes en contactarme para explorar posibles oportunidades de colaboración mutua. Mi sólida formación respaldada por Cisco, Microsoft e Infusionsoft en marketing digital y tecnología refleja mi compromiso con la excelencia en cada proyecto que emprendo.**
 
-- 📫 How to reach me **yacevedo170@gmail.com**
+- 📫 Como contactarme **yacevedo170@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

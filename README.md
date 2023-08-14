@@ -5,7 +5,7 @@
 
 - 🔭 Actualmente estoy trabajando en **Prodelevate**
 
-- 🌱 Actualmente estoy aprendiendo **Redux Toolkit, React Native**
+- 🌱 Actualmente estoy aprendiendo **Redux Toolkit, React Native, Typescript, MongoDB **
 
 - 💬 Sobre mi **
   

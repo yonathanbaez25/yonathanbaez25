@@ -7,9 +7,9 @@
 
 - 🌱 Actualmente estoy aprendiendo **Redux Toolkit, React Native, Typescript, MongoDB**
 
-- 💬 Sobre mi **
+- 💬 Sobre mi 
   
-¡Saludos! Mi nombre es Yonathan Acevedo Báez, y mi experiencia de más de 15 años en el sector tecnológico me ha consolidado como un profesional altamente competente. Poseo certificaciones de renombre en empresas como Cisco, Microsoft e Infusionsoft, demostrando así mi profundo conocimiento y habilidades en áreas como redes, sistemas y marketing digital.
+**¡Saludos! Mi nombre es Yonathan Acevedo Báez, y mi experiencia de más de 15 años en el sector tecnológico me ha consolidado como un profesional altamente competente. Poseo certificaciones de renombre en empresas como Cisco, Microsoft e Infusionsoft, demostrando así mi profundo conocimiento y habilidades en áreas como redes, sistemas y marketing digital.
 
 Como Desarrollador Full-Stack, me destaco por ser creativo, curioso y organizado, respaldado por una sólida iniciativa y una perspectiva colaborativa en el trabajo en equipo. Mi constante búsqueda de aprendizaje y enfoque eficiente para resolver problemas me mantienen actualizado con las mejores prácticas del sector, permitiéndome proporcionar soluciones superiores. Además, mi experiencia de una década como ingeniero de sistemas ha fortalecido mis habilidades de liderazgo y colaboración, lo que me permite dirigir equipos con éxito y alcanzar objetivos de manera efectiva.
 
